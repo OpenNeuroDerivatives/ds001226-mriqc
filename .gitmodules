@@ -9,3 +9,5 @@
 [submodule "code/tacc-openneuro"]
 	path = code/tacc-openneuro
 	url = https://github.com/poldracklab/tacc-openneuro.git
+[submodule "sourcedata/templateflow"]
+	url = https://github.com/templateflow/templateflow.git
